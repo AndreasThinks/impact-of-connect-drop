@@ -1,0 +1,13 @@
+[project]
+name = "impact-of-connect-drop"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.2.3",
+    "scikit-learn>=1.6.0",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.4",
+    "tqdm>=4.67.1",
+]
